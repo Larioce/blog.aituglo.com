@@ -9,6 +9,8 @@ featureImage: uploads/about-hero.jpg
 ---
 Cette année en 2020, j'ai décidé de changer, mais pas avec un lot de bonnes résolutions que je ne vais pas tenir sur le long termes, mais sur des changements au quotidien qui vont me pousser au meilleur de moi même.
 
+
+
 J'ai commencé la fin de l'année 2019 par énormément lire de livres de developpement personnel et cela m'a énormément apporté. J'ai d'ailleurs prévus d'en faire quelques articles sur mon blog Medium.
 
 # Quels sont les changements que j'ai opéré
