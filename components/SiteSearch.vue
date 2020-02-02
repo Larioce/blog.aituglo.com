@@ -11,12 +11,12 @@
       <input
         id="search-input"
         v-model="query"
-        autocomplete="off"
         :class="{
           input: true
         }"
-        type="search"
         @keyup.enter="search"
+        autocomplete="off"
+        type="search"
       />
 
       <ul v-if="matches" class="search-results subtle-box-shadow">
@@ -29,15 +29,15 @@
             <nuxt-link :to="`/${match.slug}`">
               {{ match.title }}
             </nuxt-link>
-            <small class="match-snippet" v-html="match.snippet"></small>
+            <small v-html="match.snippet" class="match-snippet"></small>
           </li>
         </div>
 
         <li v-else>
-          No results found
+          Non trouvé
           <font-awesome-icon
-            icon="times"
             @click="toggleSearchBar()"
+            icon="times"
           ></font-awesome-icon>
         </li>
       </ul>
@@ -45,9 +45,9 @@
 
     <label for="search-input">
       <font-awesome-icon
+        @click="toggleSearchBar()"
         icon="search"
         class="search-icon"
-        @click="toggleSearchBar()"
       />
     </label>
   </div>

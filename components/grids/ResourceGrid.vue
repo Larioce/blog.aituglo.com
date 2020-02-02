@@ -1,7 +1,7 @@
 <template>
   <div>
     <div v-if="firstPageLoaded && !resources.length">
-      No {{ resourceController.plural.toLowerCase() }} available
+      Pas d'articles disponible
     </div>
     <presentational-grid
       v-else

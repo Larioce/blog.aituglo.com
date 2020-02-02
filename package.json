@@ -1,8 +1,8 @@
 {
-  "name": "nuxtlify",
+  "name": "aituglo_blog",
   "version": "1.0.0",
-  "description": "Blog template for Nuxt.js/Netlify",
-  "author": "Daniel Kelly",
+  "description": "Aituglo's blog",
+  "author": "Cassim Khouani",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",

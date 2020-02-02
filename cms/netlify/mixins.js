@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-catch */
 import { chunk } from 'lodash'
 import { flattenResource } from './helper'
 

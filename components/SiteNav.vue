@@ -1,3 +1,4 @@
+/* eslint-disable vue/require-component-is */
 <template>
   <nav
     class="navbar has-shadow is-fixed-top"
@@ -27,8 +28,8 @@
         <li
           v-for="item in $siteConfig.mainMenu"
           :key="item.link"
-          class="navbar-item"
           @click="active = false"
+          class="navbar-item"
         >
           <component
             :is="item.link.startsWith('http') ? 'a' : 'nuxt-link'"

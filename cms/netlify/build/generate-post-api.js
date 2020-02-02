@@ -7,7 +7,7 @@ const generatePostApi = () => {
   const allFile = `${apiDir}/posts.json`
   const metaFile = `${apiDir}/posts-meta.json`
   const pages = siteConfig.posts.perPage
-  const doneMessage = `{totalNumber} posts generated in posts API`
+  const doneMessage = '{totalNumber} posts generated in posts API'
 
   createAll(contentDir, allFile, apiDir)
     .then((all) => {

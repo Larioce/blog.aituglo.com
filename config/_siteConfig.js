@@ -9,35 +9,31 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Aituglo',
+  tagline: 'Blog',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
-    on: true,
+    on: false,
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
     {
-      name: 'About',
-      link: '/about'
-    },
-    {
-      name: 'Contact',
-      link: '/contact'
+      name: 'Accueil',
+      link: '/'
     },
     {
       name: 'Categories',
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'À Propos',
+      link: 'https://aituglo.com',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'Github',
+      link: 'https://github.com/Aituglo',
       target: '_blank'
     }
   ],
@@ -61,20 +57,19 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'aituglo'
   },
 
   // Newsletter Subscribe
   newsletter: {
-    on: true,
+    on: false,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
-      formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+      formAction: 'https://aituglo.us3.list-manage.com/subscribe'
     },
     custom: {
       on: false,

@@ -1,5 +1,5 @@
 <template>
-  <v-runtime-template class="content" :template="content"></v-runtime-template>
+  <v-runtime-template :template="content" class="content"></v-runtime-template>
 </template>
 
 <script>
@@ -58,8 +58,8 @@ export default {
       return html
     },
     wrapTable(html) {
-      html = html.replace(/<table/g, `<div class="table-wrapper"><table`)
-      html = html.replace(/<\/table>/g, `</table></div>"`)
+      html = html.replace(/<table/g, '<div class="table-wrapper"><table')
+      html = html.replace(/<\/table>/g, '</table></div>"')
       return html
     }
   }

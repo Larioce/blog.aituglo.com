@@ -7,7 +7,7 @@ const generateCategoryApi = () => {
   const allFile = `${apiDir}/categories.json`
   const metaFile = `${apiDir}/categories-meta.json`
   const pages = siteConfig.categories.perPage
-  const doneMessage = `{totalNumber} categories generated in categories API`
+  const doneMessage = '{totalNumber} categories generated in categories API'
 
   createAll(contentDir, allFile, apiDir)
     .then((all) => {
