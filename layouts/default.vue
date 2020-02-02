@@ -61,7 +61,7 @@ export default {
     return {
       items: [
         {
-          title: 'Home',
+          title: 'Accueil',
           icon: 'home',
           to: { name: 'index' }
         },
