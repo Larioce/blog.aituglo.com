@@ -1,5 +1,5 @@
 ---
 name: Developpement personnel
-image: https://picsum.photos/1800/1801
+image: /uploads/home-hero.jpg
 ---
 Developper vos compétences et devenez une meilleure version de vous même

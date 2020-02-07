@@ -1,5 +1,5 @@
 ---
 name: Hacking
-image: /logo.svg
+image: /uploads/home-hero.jpg
 ---
 Séction qui parle de sécurité informatique

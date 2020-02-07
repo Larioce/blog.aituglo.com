@@ -64,11 +64,6 @@ export default {
           title: 'Accueil',
           icon: 'home',
           to: { name: 'index' }
-        },
-        {
-          title: 'Inspire',
-          icon: 'lightbulb',
-          to: { name: 'inspire' }
         }
       ]
     }

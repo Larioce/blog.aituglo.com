@@ -1,5 +1,5 @@
 ---
 name: Perso
-image: /logo.svg
+image: /uploads/home-hero.jpg
 ---
 Des choses sur ma vie en général

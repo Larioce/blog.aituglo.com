@@ -5,7 +5,7 @@ category:
   - Perso
 author: Cassim Khouani
 date: 2019-11-22T04:27:56.800Z
-featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
+featureImage: /uploads/home-hero.jpg
 ---
 Bonjour/soir à tous,
 

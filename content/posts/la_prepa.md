@@ -5,7 +5,7 @@ category:
   - Perso
 author: Cassim Khouani
 date: 2018-09-15T04:27:56.800Z
-featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
+featureImage: /uploads/home-hero.jpg
 ---
 Nous sommes le 15 septembre 2018, et cela fait maintenant 2 semaines que je suis entré en prépa MPSI, et je voudrai donner un peu mon ressenti de ce début d'année.
 
