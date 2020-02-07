@@ -15,17 +15,17 @@
           Catégories
         </h3>
         <div class="panel">
-          <nuxt-link
+          <a
             v-for="cat in allCats"
             :key="cat.slug"
-            :to="`/categories/${cat.slug}`"
+            :href="`/categories/${cat.slug}`"
             :class="{
               'panel-block': true,
               'is-active': cat.slug === $route.params.single
             }"
           >
             {{ cat.name }}
-          </nuxt-link>
+          </a>
         </div>
       </template>
     </main-section>
