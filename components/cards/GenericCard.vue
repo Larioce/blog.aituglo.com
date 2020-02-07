@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-image">
-      <nuxt-link :to="link">
+      <a :href="link">
         <figure :class="`image is-${imageRatioClass}`">
           <opti-image
             v-if="image"
@@ -13,12 +13,12 @@
           />
           <loading-spinner position="absolute" />
         </figure>
-      </nuxt-link>
+      </a>
     </div>
     <div class="card-content">
       <div class="media">
         <div class="media-content">
-          <nuxt-link :to="link">
+          <a :href="link">
             <h3
               :class="
                 `title
@@ -38,7 +38,7 @@
             >
               <slot></slot>
             </h4>
-          </nuxt-link>
+          </a>
         </div>
       </div>
     </div>
