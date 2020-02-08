@@ -1,5 +1,6 @@
 ---
 name: Perso
-image: /uploads/home-hero.jpg
+image: /uploads/1920 copy.PNG
+description: Articles généraux.
 ---
-Des choses sur ma vie en général
+
