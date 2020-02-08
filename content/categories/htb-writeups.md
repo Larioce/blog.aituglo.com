@@ -1,6 +1,6 @@
 ---
 name: HTB Writeups
-image: /uploads/home-hero.jpg
+image: /uploads/htb.png
 description: Mes writeups de HackTheBox.
 ---
 
