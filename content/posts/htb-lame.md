@@ -5,7 +5,7 @@ category:
   - HTB Writeups
 author: Cassim Khouani
 date: 2020-02-06T13:28:03.595Z
-featureImage: /uploads/home-hero.jpg
+featureImage: /uploads/Screenshot-2019-08-01-at-20.39.48.png
 ---
 La box Lame est considéré comme l'une des box les plus simple à craquer, c'est donc pour cela que je commence par celle ci.
 
