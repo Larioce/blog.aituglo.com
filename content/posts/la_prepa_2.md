@@ -5,7 +5,7 @@ category:
   - Perso
 author: Cassim Khouani
 date: 2019-11-22T04:27:56.800Z
-featureImage: /uploads/home-hero.jpg
+featureImage: /uploads/que-faire-apres-une-prepa-scientifique--lg-26347.jpg
 ---
 Bonjour/soir à tous,
 
