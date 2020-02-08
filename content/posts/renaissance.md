@@ -5,7 +5,7 @@ category:
   - Perso
 author: Cassim Khouani
 date: 2020-02-02T12:13:46.919Z
-featureImage: /uploads/home-hero.jpg
+featureImage: /uploads/High-Renaissance.jpg
 ---
 Cette année en 2020, j'ai décidé de changer, mais pas avec un lot de bonnes résolutions que je ne vais pas tenir sur le long termes, mais sur des changements au quotidien qui vont me pousser au meilleur de moi même.
 
