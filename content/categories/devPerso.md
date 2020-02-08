@@ -1,5 +1,6 @@
 ---
 name: Developpement personnel
-image: /uploads/home-hero.jpg
+image: /uploads/developpement-travailler-1080x675.jpg
+description: Donner le maximum de soi même.
 ---
-Developper vos compétences et devenez une meilleure version de vous même
+
