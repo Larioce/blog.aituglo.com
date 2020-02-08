@@ -1,5 +1,6 @@
 ---
 name: Hacking
-image: /uploads/home-hero.jpg
+image: /uploads/thumb-1920-746199.jpg
+description: Articles divers sur le thème de la sécurité informatique.
 ---
-Séction qui parle de sécurité informatique
+
