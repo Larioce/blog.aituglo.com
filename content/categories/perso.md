@@ -1,6 +1,6 @@
 ---
 name: Perso
-image: /uploads/1920 copy.PNG
+image: /uploads/1920.png
 description: Articles généraux sur ma vie.
 ---
 
